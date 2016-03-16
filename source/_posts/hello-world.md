@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tags:
+categories:
 - hexo
 excerpt: 简介
 
